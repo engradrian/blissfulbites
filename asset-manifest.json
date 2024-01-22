@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/blissfulbites/static/css/main.30b930f8.css",
+    "main.js": "/blissfulbites/static/js/main.49b70cb4.js",
+    "static/js/787.997aeded.chunk.js": "/blissfulbites/static/js/787.997aeded.chunk.js",
+    "static/media/mantle bg.png": "/blissfulbites/static/media/mantle bg.7943ce53884683d6101e.png",
+    "static/media/background home.png": "/blissfulbites/static/media/background home.3d6aa3fafdb2564e78e7.png",
+    "static/media/food1.png": "/blissfulbites/static/media/food1.d769ab157a65f0a4f859.png",
+    "static/media/food3.png": "/blissfulbites/static/media/food3.a6c05b629bc37cb98650.png",
+    "static/media/food2.png": "/blissfulbites/static/media/food2.3fc90627d0db2b19dd21.png",
+    "static/media/food6.png": "/blissfulbites/static/media/food6.c1f787de425159fc4cf7.png",
+    "static/media/food4.png": "/blissfulbites/static/media/food4.108a9811bc20c3e1f764.png",
+    "static/media/food5.png": "/blissfulbites/static/media/food5.fc6cb5c346be3fd76397.png",
+    "static/media/mini food 1.png": "/blissfulbites/static/media/mini food 1.9aceca1c174e2bec9907.png",
+    "static/media/mini food 3.png": "/blissfulbites/static/media/mini food 3.25179fbcdc3bdb823ac5.png",
+    "static/media/mini food 2.png": "/blissfulbites/static/media/mini food 2.2523413fed6986fcdb0b.png",
+    "static/media/mini food 6.png": "/blissfulbites/static/media/mini food 6.80f93da1f5faadfd4da8.png",
+    "static/media/mini food 5.png": "/blissfulbites/static/media/mini food 5.122dd3e079e5cf753bef.png",
+    "static/media/mini food 4.png": "/blissfulbites/static/media/mini food 4.312055f3fcd6eccfb62e.png",
+    "index.html": "/blissfulbites/index.html",
+    "main.30b930f8.css.map": "/blissfulbites/static/css/main.30b930f8.css.map",
+    "main.49b70cb4.js.map": "/blissfulbites/static/js/main.49b70cb4.js.map",
+    "787.997aeded.chunk.js.map": "/blissfulbites/static/js/787.997aeded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b930f8.css",
+    "static/js/main.49b70cb4.js"
+  ]
+}
